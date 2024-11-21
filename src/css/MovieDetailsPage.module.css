@@ -1,0 +1,39 @@
+h1 {
+    font-size: 25px;
+}
+
+button {
+    margin-right: 10px;
+}
+
+
+.moviePostCard {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.movieImage {
+    width: 200px;
+    height: auto;
+}
+
+.movieInfo{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+p {
+    margin: 0;
+    max-width: 500px;
+}
+
+.overview{
+    font-size: medium;
+}
+
+.buttonBack{
+    margin-bottom: 15px;
+}
